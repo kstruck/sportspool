@@ -1,5 +1,5 @@
 ## 1. Objective
-To create a monetizable sports pool website that allows users to host, manage, and participate in private pools. Competitor examples: [officepools.com](https://www.officepools.com), [runyourpool.com](https://www.runyourpool.com).
+To create a monetizable sports pool website that allows users to host, manage, and participate in private pools. 
 
 ## 2. Platform & Tech Stack
 - Host Environment: PHP 8.2, MariaDB 11.4, cPanel & WHM v124.0.10
